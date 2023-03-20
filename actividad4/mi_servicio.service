@@ -1,0 +1,9 @@
+[Unit]
+Description= Actividad 4 SO1 Script de saludo y fecha
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/mi_script.sh
+
+[Install]
+WantedBy=multi-user.target
