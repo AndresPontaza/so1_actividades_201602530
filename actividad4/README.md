@@ -44,5 +44,5 @@ Finalmete se va a ejecutar de la siguente manera y por tanto va a mostrar el res
 
 **Comando**
 ```shell
-sudo systemctl status mi_servicio
+systemctl status mi_servicio
 ```
